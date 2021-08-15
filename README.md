@@ -1,6 +1,5 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
+![Showcase](https://raw.githubusercontent.com/qNecro/bmi-calculator/main/preview.png)
 #  BMI Calculator
 
 ## Our Goal
